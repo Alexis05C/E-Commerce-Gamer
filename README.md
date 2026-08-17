@@ -18,4 +18,4 @@ Proyecto final de JavaScript. Tienda online (simulada) de productos gamer: juego
 Clonar o descargar el repo y abrir index.html en el navegador (recomendado usar Live Server para evitar problemas de CORS con el fetch).
 
 ## Autor
-Alexis — [tu perfil de GitHub o LinkedIn si querés]
+Alexis Correa
