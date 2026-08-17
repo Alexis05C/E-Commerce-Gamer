@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "nombre": "The Last of Us Part II Remastered",
+    "categoria": "juegos-fisicos",
+    "precio": 45999,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/4/4f/TLOU_P2_Box_Art_2.png",
+    "descripcion": "Edición física para PS5. Incluye modo No Return y comentarios de directores. Estado: nuevo, sellado."
+  },
+  {
+    "id": 2,
+    "nombre": "Zelda: Tears of the Kingdom",
+    "categoria": "juegos-fisicos",
+    "precio": 52999,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg",
+    "descripcion": "Cartucho físico para Nintendo Switch. Incluye mapa de Hyrule y manual impreso. Estado: nuevo, sellado."
+  },
+  {
+    "id": 3,
+    "nombre": "EA Sports FC 26",
+    "categoria": "juegos-fisicos",
+    "precio": 39999,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFjqn1ifUXAA2GVVQ50EWv3QpsMZCRwaA7WRR3Bx8bewEOhqwn2n56S0I&s=10",
+    "descripcion": "Edición estándar física para Xbox Series X|S. Incluye código de contenido descargable adicional."
+  },
+  {
+    "id": 4,
+    "nombre": "Elden Ring Shadow of the Erdtree Edition",
+    "categoria": "juegos-fisicos",
+    "precio": 48999,
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+    "descripcion": "Edición física para PC (caja con clave de activación) que incluye juego base más expansión."
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado mecánico Redragon Kumara K552",
+    "categoria": "perifericos",
+    "precio": 34999,
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Switches mecánicos rojos, retroiluminación RGB, diseño compacto tenkeyless. Conexión USB."
+  },
+  {
+    "id": 6,
+    "nombre": "Mouse Logitech G203 Lightsync",
+    "categoria": "perifericos",
+    "precio": 21999,
+    "imagen": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Sensor óptico de 8000 DPI, iluminación RGB personalizable, 6 botones programables."
+  },
+  {
+    "id": 7,
+    "nombre": "Auriculares HyperX Cloud II",
+    "categoria": "perifericos",
+    "precio": 42999,
+    "imagen": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Sonido envolvente 7.1 virtual, micrófono desmontable con cancelación de ruido, almohadillas de memory foam."
+  },
+  {
+    "id": 8,
+    "nombre": "Mousepad SteelSeries QcK Heavy XL",
+    "categoria": "perifericos",
+    "precio": 15999,
+    "imagen": "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Superficie de tela optimizada para precisión y velocidad, base de goma antideslizante. Medidas 90x40 cm."
+  },
+  {
+    "id": 9,
+    "nombre": "PlayStation 5 Slim",
+    "categoria": "consolas",
+    "precio": 649999,
+    "imagen": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Consola con unidad de disco, 1TB de almacenamiento, incluye un control DualSense."
+  },
+  {
+    "id": 10,
+    "nombre": "Xbox Series X",
+    "categoria": "consolas",
+    "precio": 679999,
+    "imagen": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "1TB SSD, resolución 4K nativa hasta 120fps, retrocompatibilidad con miles de títulos."
+  },
+  {
+    "id": 11,
+    "nombre": "Nintendo Switch OLED",
+    "categoria": "consolas",
+    "precio": 459999,
+    "imagen": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Pantalla OLED de 7 pulgadas, 64GB de almacenamiento interno, base con puerto LAN."
+  },
+  {
+    "id": 12,
+    "nombre": "Steam Deck OLED 512GB",
+    "categoria": "consolas",
+    "precio": 799999,
+    "imagen": "https://images.unsplash.com/photo-1640955014216-75201056c829?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Consola portátil para PC gaming, pantalla OLED HDR, acceso a toda tu biblioteca de Steam."
+  },
+  {
+    "id": 13,
+    "nombre": "Motherboard ASUS ROG Strix B650-A",
+    "categoria": "insumos-pc",
+    "precio": 289999,
+    "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Socket AM5, compatible con procesadores Ryzen 7000/9000, soporte PCIe 5.0 y DDR5."
+  },
+  {
+    "id": 14,
+    "nombre": "Fuente EVGA SuperNOVA 750W 80+ Gold",
+    "categoria": "insumos-pc",
+    "precio": 119999,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLEsncnIqvcy07mm21_2e0n5XcXwHcnLpopa37MiSitA&s=10",
+    "descripcion": "Certificación 80+ Gold, modular completa, 750W de potencia continua, garantía de 10 años."
+  },
+  {
+    "id": 15,
+    "nombre": "Placa de video NVIDIA RTX 4070 Super",
+    "categoria": "insumos-pc",
+    "precio": 899999,
+    "imagen": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "12GB GDDR6X, ray tracing y DLSS 3.5, ideal para gaming en 1440p y 4K."
+  },
+  {
+    "id": 16,
+    "nombre": "Procesador AMD Ryzen 7 7800X3D",
+    "categoria": "insumos-pc",
+    "precio": 549999,
+    "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "8 núcleos / 16 hilos, tecnología 3D V-Cache, referente en rendimiento gaming."
+  }
+]
+
