@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Commerce Gamer</title>
+  
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main>
+    <input type="text" id="input-buscador" placeholder="Buscar productos...">
+    <div class="contenedor-filtros">
+      <button class="btn-filtro" data-categoria="todos">Todos</button>
+      <button class="btn-filtro" data-categoria="juegos-fisicos">Juegos</button>
+      <button class="btn-filtro" data-categoria="perifericos">Periféricos</button>
+      <button class="btn-filtro" data-categoria="consolas">Consolas</button>
+      <button class="btn-filtro" data-categoria="insumos-pc">Insumos PC</button>
+    </div>
+
+    <div id="contenedor-productos" class="grid-productos"></div>
+
+    <section id="seccion-carrito">
+      <h2>Carrito de Compras</h2>
+      <div id="contenedor-carrito"></div>
+      
+      <div id="resumen-carrito">
+        <p>Total: $<span id="precio-total">0</span></p>
+        <button id="btn-vaciar">Vaciar Carrito</button>
+        <button id="btn-finalizar">Finalizar Compra</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  
+  <script src="app.js"></script>
+</body>
+</html>
+
